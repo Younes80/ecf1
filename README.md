@@ -11,3 +11,6 @@
     - le nombre de vélos disponibles,
     - le nombre de placeslibres
     - un bouton "Réserver" enverra, pour l'instant, unconsole.log('réservation')
+
+
+voir le résultat : https://ecf1.younes-haidri.fr/
